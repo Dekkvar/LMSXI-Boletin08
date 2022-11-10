@@ -3,7 +3,7 @@
 ## [Ejercicio 1](/lista.html)
 Crea lista.html para que muestre:
 
-![imagen lista](https://danielcastelao.esemtia.net/moodle/pluginfile.php/9764/mod_assign/intro/Captura%20de%20pantalla%202021-11-21%20a%20las%2017.20.40.png)
+![imagen lista](/imagenes/Lista.png)
 
 ## [Ejercicio 2](/listacombinada.html)
 Crea una lista combinada con el contenido que quieras que contenga los siguientes elementos:
@@ -20,6 +20,6 @@ Crea una lista combinada con el contenido que quieras que contenga los siguiente
 ## [Ejercicio 3](/tabla.html)
 Crea tabla.html para que se muestren las dos tablas a continuación:
 
-![tabla1](https://danielcastelao.esemtia.net/moodle/pluginfile.php/9764/mod_assign/intro/Captura%20de%20pantalla%202021-11-21%20a%20las%2017.23.59.png)
+![tabla1](/imagenes/Tabla1.png)
 
-![tabla2](https://danielcastelao.esemtia.net/moodle/pluginfile.php/9764/mod_assign/intro/Captura%20de%20pantalla%202021-11-21%20a%20las%2018.53.46.png)
+![tabla2](/imagenes/Tabla2.png)
